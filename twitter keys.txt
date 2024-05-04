@@ -1,0 +1,22 @@
+ACCESS_TOKEN = "vXqozc9nFEeqgKLuSdw9vGhkw"
+ACCESS_SECRET = "Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x"
+CONSUMER_KEY = "vXqozc9nFEeqgKLuSdw9vGhkw"
+CONSUMER_SECRET = "Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x"
+
+
+consumer_key="vXqozc9nFEeqgKLuSdw9vGhkw"
+consumer_secret="Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x"
+
+# After the step above, you will be redirected to your app's page.
+# Create an access token under the the "Your access token" section
+access_token="vXqozc9nFEeqgKLuSdw9vGhkw" 
+access_token_secret="Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x"
+
+
+
+api_key = vXqozc9nFEeqgKLuSdw9vGhkw
+api_key_secret = Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x
+bearer_token = AAAAAAAAAAAAAAAAAAAAAEVotgEAAAAA3eCtHwzXKjuCnDujgQzuvbcp0d8%3DenprSp2qSJVdENdJue56cv6IvyWhnax59N4PbsETWFmBR6OB0J
+
+access_token = vXqozc9nFEeqgKLuSdw9vGhkw
+access_secret = Eryi9dnh32xfpmssfwyBCJssZvOOM7B9aGGMR6pnjDfjSLyE7x
